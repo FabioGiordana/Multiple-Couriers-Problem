@@ -61,5 +61,5 @@ To generate more specifc results use the command:
     10- Highs Implied and all symmetry breaking constraints   
 
 # Authors
-* Fabio Giordana
+* [Fabio Giordana](https://github.com/FabioGiordana)
 * Abdul Moqueet
