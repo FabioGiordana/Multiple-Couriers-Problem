@@ -1,5 +1,11 @@
 # Multiple couriers problem
 
+## Introduction
+Project for the Combinatorial Decision Making and Optimization course (A.Y. 2023-2024). 
+
+## Description
+The aim of the project is to solve a Min-Max Capacited Vehicle Routing Problems with four different approches: CP, SAT, SMT and MIP.
+
 ## Build the doker container
 To build the docker container use the command:   
 `docker build . -t cdmo -f Dockerfile`
@@ -53,3 +59,7 @@ To generate more specifc results use the command:
         8- Highs Implied and symmetry breaking constraints on distances    
         9- Highs Implied and symmetry breaking constraints on sizes   
         10- Highs Implied and all symmetry breaking constraints   
+
+# Authors
+Fabio Giordana
+Abdul Moqueet
